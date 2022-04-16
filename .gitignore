@@ -1,0 +1,29 @@
+# Project exclude paths
+/.gradle/
+/Contacts/task/build/
+/Contacts/task/out/
+/Contacts/task/out/production/classes/
+/Topics/Builder/Builder/out/
+/Topics/Builder/Builder/out/production/classes/
+/Topics/Command-line arguments/Get the game mode/out/
+/Topics/Command-line arguments/Get the game mode/out/production/classes/
+/Topics/Input streams/Count words/out/
+/Topics/Input streams/Count words/out/production/classes/
+/Topics/Match results/Find all passwords/out/
+/Topics/Match results/Find all passwords/out/production/classes/
+/Topics/Overloading/Overloading methods/out/
+/Topics/Overloading/Overloading methods/out/production/classes/
+/Topics/Overloading/Print/out/
+/Topics/Overloading/Print/out/production/classes/
+/Topics/Patterns and Matcher/Find a word with a given length/out/
+/Topics/Patterns and Matcher/Find a word with a given length/out/production/classes/
+/Topics/Patterns and Matcher/In the middle of a word/out/
+/Topics/Patterns and Matcher/In the middle of a word/out/production/classes/
+/Topics/Patterns and Matcher/Number parsing/out/
+/Topics/Patterns and Matcher/Number parsing/out/production/classes/
+/Topics/Regexes in programs/Illegal identifiers/out/
+/Topics/Regexes in programs/Illegal identifiers/out/production/classes/
+/Topics/Regexes in programs/Safe password/out/
+/Topics/Regexes in programs/Safe password/out/production/classes/
+/Topics/Regexes in programs/Vehicle registration number/out/
+/Topics/Regexes in programs/Vehicle registration number/out/production/classes/

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Contacts.Contacts-task-build-classes-java.main" target="11" />
+      <module name="Contacts.Contacts-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Contacts.Contacts-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Contacts.Contacts-task-build-reports-tests.main" target="11" />
+      <module name="Contacts.Contacts-task-build-test-results.main" target="11" />
+      <module name="Contacts.Contacts-task-build-tmp.main" target="11" />
+      <module name="Contacts.Contacts-task.main" target="11" />
+      <module name="Contacts.Topics-Builder-Builder.main" target="11" />
+      <module name="Contacts.Topics-Builder-Disadvantage_of_Builder_pattern.main" target="11" />
+      <module name="Contacts.Topics-Builder-Robot_Builder.main" target="11" />
+      <module name="Contacts.Topics-Builder-Subway_Sandwich.main" target="11" />
+      <module name="Contacts.Topics-Builder-Theory.main" target="11" />
+      <module name="Contacts.Topics-Command-line_arguments-Command_line_arguments.main" target="11" />
+      <module name="Contacts.Topics-Command-line_arguments-Get_the_game_mode.main" target="11" />
+      <module name="Contacts.Topics-Command-line_arguments-The_index_of_an_argument.main" target="11" />
+      <module name="Contacts.Topics-Command-line_arguments-Theory.main" target="11" />
+      <module name="Contacts.Topics-Custom_serialization-Initialize_transient_fields.main" target="11" />
+      <module name="Contacts.Topics-Custom_serialization-The_Range_class.main" target="11" />
+      <module name="Contacts.Topics-Custom_serialization-Theory.main" target="11" />
+      <module name="Contacts.Topics-Hiding_and_overriding-Publications.main" target="11" />
+      <module name="Contacts.Topics-Hiding_and_overriding-Theory.main" target="11" />
+      <module name="Contacts.Topics-Input_streams-Count_words.main" target="11" />
+      <module name="Contacts.Topics-Input_streams-Read_into_an_array.main" target="11" />
+      <module name="Contacts.Topics-Input_streams-Theory.main" target="11" />
+      <module name="Contacts.Topics-Match_results-Find_all_passwords.main" target="11" />
+      <module name="Contacts.Topics-Match_results-Theory.main" target="11" />
+      <module name="Contacts.Topics-Match_results-What_do_we_get.main" target="11" />
+      <module name="Contacts.Topics-Multiple_constructors-Employee.main" target="11" />
+      <module name="Contacts.Topics-Multiple_constructors-Movie.main" target="11" />
+      <module name="Contacts.Topics-Multiple_constructors-Theory.main" target="11" />
+      <module name="Contacts.Topics-Output_streams-Convert_to_char_array.main" target="11" />
+      <module name="Contacts.Topics-Output_streams-Theory.main" target="11" />
+      <module name="Contacts.Topics-Overloading-Overloading_methods.main" target="11" />
+      <module name="Contacts.Topics-Overloading-Print.main" target="11" />
+      <module name="Contacts.Topics-Overloading-Theory.main" target="11" />
+      <module name="Contacts.Topics-Patterns_and_Matcher-Find_a_word_with_a_given_length.main" target="11" />
+      <module name="Contacts.Topics-Patterns_and_Matcher-In_the_middle_of_a_word.main" target="11" />
+      <module name="Contacts.Topics-Patterns_and_Matcher-Invoking_matches_and_find.main" target="11" />
+      <module name="Contacts.Topics-Patterns_and_Matcher-Number_parsing.main" target="11" />
+      <module name="Contacts.Topics-Patterns_and_Matcher-Theory.main" target="11" />
+      <module name="Contacts.Topics-Regexes_in_programs-Check_the_clock_time.main" target="11" />
+      <module name="Contacts.Topics-Regexes_in_programs-E-mail_address.main" target="11" />
+      <module name="Contacts.Topics-Regexes_in_programs-Illegal_identifiers.main" target="11" />
+      <module name="Contacts.Topics-Regexes_in_programs-Safe_password.main" target="11" />
+      <module name="Contacts.Topics-Regexes_in_programs-Theory.main" target="11" />
+      <module name="Contacts.Topics-Regexes_in_programs-Vehicle_registration_number.main" target="11" />
+      <module name="Contacts.Topics-Serialization_basics-Serializable_user.main" target="11" />
+      <module name="Contacts.Topics-Serialization_basics-Theory.main" target="11" />
+      <module name="Contacts.Topics-The_keyword_super-Bank_account.main" target="11" />
+      <module name="Contacts.Topics-The_keyword_super-Employees.main" target="11" />
+      <module name="Contacts.Topics-The_keyword_super-Theory.main" target="11" />
+      <module name="Contacts.Topics-The_while_and_do-while_loops-Profit.main" target="11" />
+      <module name="Contacts.Topics-The_while_and_do-while_loops-Squares_of_natural_numbers.main" target="11" />
+      <module name="Contacts.Topics-The_while_and_do-while_loops-The_largest_element_of_a_sequence.main" target="11" />
+      <module name="Contacts.Topics-The_while_and_do-while_loops-The_sequence.main" target="11" />
+      <module name="Contacts.Topics-The_while_and_do-while_loops-Theory.main" target="11" />
+      <module name="Contacts.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

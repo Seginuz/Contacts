@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Contacts/task" />
+            <option value="$PROJECT_DIR$/Contacts/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Contacts/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Contacts/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Contacts/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Contacts/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Contacts/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Disadvantage of Builder pattern" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Robot Builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Subway Sandwich" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Command line arguments" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Get the game mode" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/The index of an argument" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/Initialize transient fields" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/The Range class" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Publications" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Input streams/Count words" />
+            <option value="$PROJECT_DIR$/Topics/Input streams/Read into an array" />
+            <option value="$PROJECT_DIR$/Topics/Input streams/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Find all passwords" />
+            <option value="$PROJECT_DIR$/Topics/Match results/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Match results/What do we get" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Employee" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Movie" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Output streams/Convert to char array" />
+            <option value="$PROJECT_DIR$/Topics/Output streams/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Overloading methods" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Print" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Find a word with a given length" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/In the middle of a word" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Invoking matches and find" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Number parsing" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Check the clock time" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/E-mail address" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Illegal identifiers" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Safe password" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Regexes in programs/Vehicle registration number" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Serializable user" />
+            <option value="$PROJECT_DIR$/Topics/Serialization basics/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Bank account" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Employees" />
+            <option value="$PROJECT_DIR$/Topics/The keyword super/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Profit" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Squares of natural numbers" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The largest element of a sequence" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The sequence" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
