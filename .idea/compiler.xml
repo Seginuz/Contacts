@@ -48,6 +48,10 @@
       <module name="Contacts.Topics-Regexes_in_programs-Safe_password.main" target="11" />
       <module name="Contacts.Topics-Regexes_in_programs-Theory.main" target="11" />
       <module name="Contacts.Topics-Regexes_in_programs-Vehicle_registration_number.main" target="11" />
+      <module name="Contacts.Topics-Replacing_characters-Check_the_essay.main" target="11" />
+      <module name="Contacts.Topics-Replacing_characters-Remove_comments.main" target="11" />
+      <module name="Contacts.Topics-Replacing_characters-Remove_extra_spaces.main" target="11" />
+      <module name="Contacts.Topics-Replacing_characters-Theory.main" target="11" />
       <module name="Contacts.Topics-Serialization_basics-Serializable_user.main" target="11" />
       <module name="Contacts.Topics-Serialization_basics-Theory.main" target="11" />
       <module name="Contacts.Topics-The_keyword_super-Bank_account.main" target="11" />
